@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 2px;
+    box-sizing: 0;
+}
+#bdy {
+    background-color: aqua;
+} 
+.t{
+    border:1px solid black;
+}
+.h1{
+   text-align: center;
+
+}
+.h2,.h3{
+    
+    display: table-row;
+
+}
+label , input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+label {
+    padding: 10xp;
+}
+
+.form-ex {
+    display: table-row;
+
+}
+
+label , input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+label {
+    padding: 10px;
+}
